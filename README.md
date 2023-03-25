@@ -2,7 +2,7 @@
 #### Done by: 
 |Software Engineer | Role|
 |---|---|
-| 1. [El Abdallah Hassan](https://github.com/hsnkh12)   | ***Project Manager/ Backend Developer*** |
+| 1. [Hassan El Abdallah](https://github.com/hsnkh12)   | ***Project Manager/ Backend Developer*** |
 | 2.  [Ghaleb Mitwalle](https://github.com/iricho)     |    ***Frontend Developer/ UI designer*** |
 | 3. [Abdulaziz Binafif](https://github.com/Aziz9111)    |    ***Tester/ System Analyst***          |
 | 4.  [Khawlah Alshubati](https://github.com/alshubati99)|  ***Database Manager/ Adminstrator***    |
