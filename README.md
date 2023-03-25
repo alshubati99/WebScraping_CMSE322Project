@@ -1,9 +1,13 @@
 ### This is Web Scrapping Project For the CMSE322 Software Design Course at EMU
 ## Done by: 
-1. El Abdallah Hassan (Project Manager/ Backend Developer)
-2. Ghaleb Mitwalle (Frontend Developer/ UI designer)
-3. Abdulazia Binafif (Tester/ System Analyst)
-4. Khawlah Alshubati (Database Manager/ Adminstrator)
+|Software Engineer | Role|
+|---|---|
+| 1. [El Abdallah Hassan](https://github.com/hsnkh12)   | ***Project Manager/ Backend Developer*** |
+| 2.  [Ghaleb Mitwalle](https://github.com/iricho)     |    ***Frontend Developer/ UI designer*** |
+| 3. [Abdulazia Binafif](https://github.com/Aziz9111)    |    ***Tester/ System Analyst***          |
+| 4.  [Khawlah Alshubati](https://github.com/alshubati99)|  ***Database Manager/ Adminstrator***    |
+
+
 ***
 <!-- [![GitHub license](https://img.shields.io/github/license/alshubati99/Become-a-Programmer.svg?color=blue)](https://github.com/alshubati99/Become-a-Programmer/master/LICENSE) -->
 [![GitHub contributors](https://img.shields.io/github/contributors/alshubati99/Become-a-Programmer.svg?color=blue)](https://GitHub.com/alshubati99/WebScraping_CMSE322Project/contributors/)
