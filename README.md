@@ -7,9 +7,15 @@
 | 3. [Abdulaziz Binafif](https://github.com/Aziz9111)    |    ***Tester/ System Analyst***          |
 | 4.  [Khawlah Alshubati](https://github.com/alshubati99)|  ***Database Manager/ Adminstrator***    |
 
-👉 [**Frontend**](https://github.com/hsnkh12/cmse322-frontend)<br>
-👉 [**Backend**](https://github.com/hsnkh12/cmse322-backend)<br>
-👉 [**Scrapper**](https://github.com/hsnkh12/doctors-scraper-app)
+
+|             |                              |
+|-------------|------------------------------|
+| 👉 |1. [**Frontend**](https://github.com/hsnkh12/cmse322-frontend) |
+| 👉 |2. [**Backend**](https://github.com/hsnkh12/cmse322-backend) |
+| 👉 |3. [**Scrapper**](https://github.com/hsnkh12/doctors-scraper-app) |
+| 👉 |4. [**Documents**](https://github.com/alshubati99/WebScraping_CMSE322Project) |
+
+
 
 
 
